@@ -9,7 +9,8 @@
     "uvicorn",
     "venv",
     "virtualenv",
-    "Zoja"
+    "Zoja",
+    "supabase"
   ],
   "editor.formatOnSave": true
 }
