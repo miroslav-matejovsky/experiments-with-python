@@ -1,12 +1,15 @@
 {
   "cSpell.words": [
+    "autoflush",
     "dotenv",
     "fastapi",
     "psycopg",
+    "sessionmaker",
     "sqlalchemy",
     "uvicorn",
     "venv",
-    "virtualenv"
+    "virtualenv",
+    "Zoja"
   ],
   "editor.formatOnSave": true
 }
