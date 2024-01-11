@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "yzhang.markdown-all-in-one",
+    "DavidAnson.vscode-markdownlint",
+    "hanskre.markdown-execute",
+    "donjayamanne.python-environment-manager",
+    "ms-python.python",
+    "KevinRose.vsc-python-indent"
+  ]
+}
