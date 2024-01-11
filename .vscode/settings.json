@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["fastapi", "uvicorn", "venv", "virtualenv"]
+  "cSpell.words": ["fastapi", "sqlalchemy", "uvicorn", "venv", "virtualenv"],
+  "editor.formatOnSave": true
 }
